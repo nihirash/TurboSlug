@@ -1,0 +1,2 @@
+SET_ROM = $c082
+SET_RAM = $c083

@@ -1,0 +1,4 @@
+*.list
+*.system
+*.SYSTEM
+dist/*.*
